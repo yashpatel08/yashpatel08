@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **problems where you are stuck**
 
-- 📫 How to reach me **patelyash0808@gmail.com**
+- 📫 How to reach me **pateljyash0808@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
