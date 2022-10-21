@@ -33,5 +33,5 @@
 
  <h1>My Github stats</h1>
  
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=yashpatel08&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpatel08&langs_count=5&theme=tokyonight)]()
