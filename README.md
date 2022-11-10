@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pateljyash0808@gmail.com**
 
-- 👨‍💻 [Let's go to My Website](https://yashpatel08.github.io/patelyash.github.io/)
+- 👨‍💻 [Let's go to My Portfolio](https://yashpatel08.github.io/patelyash.github.io/)
 <h1>Holopin board</h1>
 
 [![@yashpatel0808's Holopin board](https://holopin.me/yashpatel0808)](https://holopin.io/@yashpatel0808)
