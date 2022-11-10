@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Patel</h1>
+<h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A passionate problem solver from India and interested for working on open source projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpatel08&label=Profile%20views&color=0e75b6&style=flat" alt="yashpatel08" /> </p>
@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@yashpat42562354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yashpat42562354" height="30" width="40" /></a>
+<a href="https://twitter.com/@Yashpatel0808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yashpat42562354" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yash-patel-ab2740225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-patel-ab2740225" height="30" width="40" /></a>
 <a href="https://instagram.com/patel.yash__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patel.yash__" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/yash patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yash patel" height="30" width="40" /></a>
