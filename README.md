@@ -30,6 +30,7 @@
 <a href="https://www.leetcode.com/yashpatel0808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashpatel0808" height="30" width="40" /></a>
 </p>
 
+![Patel Yash](https://github.com/yashpatel08/yashpatel08/assets/94280370/622a0162-b5d7-44f9-90b9-6c60e2ae625e)
 
  
  <h1>My Github stats</h1>
