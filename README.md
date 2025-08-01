@@ -30,8 +30,6 @@
 <a href="https://www.leetcode.com/yashpatel0808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashpatel0808" height="30" width="40" /></a>
 </p>
 
-![Patel Yash](https://github.com/yashpatel08/yashpatel08/assets/94280370/622a0162-b5d7-44f9-90b9-6c60e2ae625e)
-
  
  <h1>My Github stats</h1>
  
@@ -43,8 +41,6 @@
 
 <h1>💳 Github profile card</h1>
 <p align="left">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashpatel08&theme=dark"/>
 </p>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yashpatel08&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=yashpatel08&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
