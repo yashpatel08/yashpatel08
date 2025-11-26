@@ -12,6 +12,7 @@
 <h3 align="center">A passionate problem solver from India and interested for working on open source projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpatel08&label=Profile%20views&color=0e75b6&style=flat" alt="yashpatel08" /> </p>
+<p>Open to Work →  <a href="cal.com/patelyash/15min">Book a Call</a></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashpatel08" alt="yashpatel08" /></a> </p>
 
