@@ -19,9 +19,9 @@
 
 > full-stack engineer building fast, scalable, seo-first web products with next.js and type-safe systems.
 
-🚀 Open to work & collaboration  
-📅 [Book a 15-min call](https://cal.com/patelyash/15min)  
-🌐 [Portfolio](https://yashpatell.vercel.app/)
+- Open to work & collaboration  
+- [Book a 15-min call](https://cal.com/patelyash/15min)  
+- [Portfolio](https://yashpatell.vercel.app/)
 
 ## writing & notes
 
