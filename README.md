@@ -17,6 +17,13 @@
 ![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?style=flat-square&logo=payloadcms&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-FF6B35?style=flat-square&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
+![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?style=flat-square&logo=quickbooks&logoColor=white)
+![Retell AI](https://img.shields.io/badge/Retell_AI-5B5BD6?style=flat-square&logoColor=white)
+![CompanyCam](https://img.shields.io/badge/CompanyCam-4479A1?style=flat-square&logo=CompanyCam&logoColor=white)
+
 > full-stack engineer building fast, scalable, seo-first web products with next.js and type-safe systems.
 
 - Open to work & collaboration  
