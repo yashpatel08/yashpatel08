@@ -42,8 +42,9 @@
 
 [![X](https://img.shields.io/badge/-@Yashpatel0808-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Yashpatel0808)
 [![LinkedIn](https://img.shields.io/badge/-Yash_Patel-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-patel-ab2740225)
-[![Instagram](https://img.shields.io/badge/-patel.yash__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/patel.yash__)
+[![Blog](https://img.shields.io/badge/-theyashpatel.com-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://theyashpatel.com)
+[![Peerlist](https://img.shields.io/badge/-peerlist.io-339933?style=flat-square&logo=googlechrome&logoColor=white)](https://peerlist.io/patelyash)
 [![HackerRank](https://img.shields.io/badge/-yashpatel54257-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yashpatel54257)
 [![LeetCode](https://img.shields.io/badge/-yashpatel0808-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/yashpatel0808)
-[![Blog](https://img.shields.io/badge/-theyashpatel.com-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://theyashpatel.com)
 [![Calendar](https://img.shields.io/badge/-Book_a_Call-0A0A0A?style=flat-square&logo=calendly&logoColor=white)](https://cal.com/patelyash/15min)
+[![Instagram](https://img.shields.io/badge/-patel.yash__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/patel.yash__)
