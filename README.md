@@ -32,9 +32,13 @@
 
 ## writing & notes
 
+- [Pagination](https://theyashpatel.com/blog/pagination) – concepts and techniques for paginating data.  
+- [Authentication vs Authorization: Sessions, JWT, OAuth](https://theyashpatel.com/blog/authentication-vs-authorization-sessions-jwt-oauth) – breaking down auth concepts and approaches.  
+- [Rendering Methods in Next.js](https://theyashpatel.com/blog/rendering-methods-in-nextjs) – overview of SSR, SSG, ISR, and CSR in Next.js.  
+- [Serialization vs Deserialization (with Example)](https://theyashpatel.com/blog/serialization-vs-deserialization-with-example) – explaining the concepts with a practical example.
 - [React Hooks and Features Overview](https://theyashpatel.com/blog/react-hooks-and-features-overview) – practical guide to essential React hooks.  
 - [Understanding Redis](https://theyashpatel.com/blog/understanding-redis-a-comprehensive-guide-to-key-data-types-and-commands) – core Redis data types explained simply.  
-- [Promise vs Async/Await](https://theyashpatel.com/blog/promise-vs-async-await) – comparing async patterns clearly.  
+- [Promise vs Async/Await](https://theyashpatel.com/blog/promise-vs-asyncawait) – comparing async patterns clearly.  
 - [React Lifecycle — Explained Simply](https://theyashpatel.com/blog/react-lifecycle-explained-simply) – lifecycle concepts made easy.  
 - [Git & GitHub Command Cheat Sheet](https://theyashpatel.com/blog/git-github-command-cheat-sheet-from-basics-to-advanced) – quick reference from basics to advanced.
 
@@ -47,4 +51,3 @@
 [![HackerRank](https://img.shields.io/badge/-yashpatel54257-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yashpatel54257)
 [![LeetCode](https://img.shields.io/badge/-yashpatel0808-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/yashpatel0808)
 [![Calendar](https://img.shields.io/badge/-Book_a_Call-0A0A0A?style=flat-square&logo=calendly&logoColor=white)](https://cal.com/patelyash/15min)
-[![Instagram](https://img.shields.io/badge/-patel.yash__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/patel.yash__)
