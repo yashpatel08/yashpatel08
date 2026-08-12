@@ -42,6 +42,9 @@
 - [React Lifecycle — Explained Simply](https://theyashpatel.com/blog/react-lifecycle-explained-simply) – lifecycle concepts made easy.  
 - [Git & GitHub Command Cheat Sheet](https://theyashpatel.com/blog/git-github-command-cheat-sheet-from-basics-to-advanced) – quick reference from basics to advanced.
 
+## After Hours
+- [SEO Rank](https://seo-rank.tech/)
+
 ## connect
 
 [![X](https://img.shields.io/badge/-@Yashpatel0808-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Yashpatel0808)
